@@ -1,0 +1,4 @@
+n,repeat,status,violations,skill_coverage_rate,composition_score,hallucinated_ids,missing_ids,wall_time_seconds,model,mean_pairwise_ari,repeats_parsed
+50,0,ok,22,0.7778,603.5,0,14,95.812,llama3.1:8b,1.0,3
+50,1,ok,22,0.7778,603.5,0,14,93.235,llama3.1:8b,1.0,3
+50,2,ok,22,0.7778,603.5,0,14,109.625,llama3.1:8b,1.0,3

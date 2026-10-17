@@ -1,0 +1,71 @@
+{
+  "source": {
+    "dataset": "Open Psychometrics IPIP-FFM (Big Five Factor Markers, 50 items)",
+    "file": "IPIP-FFM-data-8Nov2018.zip",
+    "url": "https://openpsychometrics.org/_rawdata/",
+    "collected": "2016-2018",
+    "instrument": "IPIP Big-Five Factor Markers (Goldberg, 1992)",
+    "n_total": 1015341,
+    "n_retained": 603322,
+    "filters": "IPC == 1 (one response per IP); all 50 items answered in range 1-5",
+    "scoring": "standard keying, summed 10-50, linearly rescaled to 0-100"
+  },
+  "trait_order": [
+    "openness",
+    "conscientiousness",
+    "extraversion",
+    "agreeableness",
+    "neuroticism"
+  ],
+  "mean": {
+    "openness": 73.4719,
+    "conscientiousness": 58.5641,
+    "extraversion": 47.8456,
+    "agreeableness": 68.9727,
+    "neuroticism": 52.0329
+  },
+  "sd": {
+    "openness": 15.4564,
+    "conscientiousness": 18.4763,
+    "extraversion": 22.7808,
+    "agreeableness": 18.4083,
+    "neuroticism": 21.5169
+  },
+  "correlation": [
+    [
+      1.0,
+      0.055079,
+      0.174693,
+      0.101777,
+      -0.079015
+    ],
+    [
+      0.055079,
+      1.0,
+      0.068006,
+      0.137073,
+      -0.235229
+    ],
+    [
+      0.174693,
+      0.068006,
+      1.0,
+      0.305593,
+      -0.224547
+    ],
+    [
+      0.101777,
+      0.137073,
+      0.305593,
+      1.0,
+      -0.040043
+    ],
+    [
+      -0.079015,
+      -0.235229,
+      -0.224547,
+      -0.040043,
+      1.0
+    ]
+  ]
+}

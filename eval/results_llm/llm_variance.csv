@@ -1,0 +1,11 @@
+n,repeat,status,violations,skill_coverage_rate,composition_score,hallucinated_ids,missing_ids,wall_time_seconds,mean_pairwise_ari,repeats_parsed
+50,0,ok,7,0.963,699.5,0,4,1.344,1.0,1
+50,1,rate_limited,-1,,,,,,1.0,1
+50,2,rate_limited,-1,,,,,,1.0,1
+50,3,rate_limited,-1,,,,,,1.0,1
+50,4,rate_limited,-1,,,,,,1.0,1
+100,0,rate_limited,-1,,,,,,1.0,0
+100,1,rate_limited,-1,,,,,,1.0,0
+100,2,rate_limited,-1,,,,,,1.0,0
+100,3,rate_limited,-1,,,,,,1.0,0
+100,4,rate_limited,-1,,,,,,1.0,0
